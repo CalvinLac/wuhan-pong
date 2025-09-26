@@ -24,6 +24,8 @@ Single Bomb
 
 ![single-bomb](./diagrams/single-bomb.drawio.png?raw=true "Single Bomb")
 <br>
+<br>
+<br>
 
 <div align="center" style="font-weight: bold; font-size: 20px;">
 
@@ -32,6 +34,8 @@ Double Bomb
 </div>
 
 ![double-bomb](./diagrams/double-bomb.drawio.png?raw=true "Double Bomb")
+<br>
+<br>
 <br>
 
 <div align="center" style="font-weight: bold; font-size: 20px;">
@@ -42,6 +46,8 @@ Bomb + Regular in Same Cup
 
 ![bomb-reg-same](./diagrams/bomb-reg-same.drawio.png?raw=true "Bomb Reg Same")
 <br>
+<br>
+<br>
 
 <div align="center" style="font-weight: bold; font-size: 20px;">
 
@@ -51,6 +57,8 @@ Two Regulars in Same Cup
 
 ![two-reg-same](./diagrams/two-reg-same.drawio.png?raw=true "Two Reg Bomb")
 <br>
+<br>
+<br>
 
 <div align="center" style="font-weight: bold; font-size: 20px;">
 
@@ -59,6 +67,8 @@ Bomb + Regular in Different Cups
 </div>
 
 ![bomb-reg-diff](./diagrams/bomb-reg-diff.drawio.png?raw=true "Bomb Reg Diff")
+<br>
+<br>
 <br>
 
 <div align="center" style="font-weight: bold; font-size: 20px;">
