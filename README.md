@@ -8,10 +8,10 @@
 ### Rules
   - Teams will play each other in 10 cup beer pong. Once per turn each athlete can supercharge their ball into a bomb ball by finishing half their drink or taking half a shot. A referee must be called to inspect the drink prior and after the athlete drinks.
   - Per every 4 supercharges, the athlete will receive one for free. 
-	- Double explosions are in play 
-		- Two bomb balls in the same cup nets an explosion with double the radius.
+  - Double explosions are in play 
+    - Two bomb balls in the same cup nets an explosion with double the radius.
     - A bomb ball + regular ball in the same cup nets an explosion of all touching cups with an additional two cups of choice removed.
-	- Balls out the entire game
+  - Balls out the entire game
   - If the losing team has failed both their redemption shots, they can finish their drink or take a shot to mimic a redemption
 
 ## Scenarios
