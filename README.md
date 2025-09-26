@@ -7,7 +7,7 @@
 
 ### Rules
   - Teams will play each other in 10 cup beer pong. Once per turn each athlete can supercharge their ball into a bomb ball by finishing half their drink or taking half a shot. A referee must be called to inspect the drink prior and after the athlete drinks.
-  - Per every 4 supercharges, the athlete will receive one for free. 
+  - Per every 4 supercharges, the athlete will receive one for free. Supercharge tallies carry over throughout the entire night.
   - Double explosions are in play 
     - Two bomb balls in the same cup nets an explosion with double the radius.
     - A bomb ball + regular ball in the same cup nets an explosion of all touching cups with an additional two cups of choice removed.
@@ -16,7 +16,7 @@
 
 ## Scenarios
 
-<div align="center" style="font-weight: bold; font-size: 20px;">
+<div align="center" style="font-weight: bold; font-size: 18px;">
 
 Single Bomb
 
@@ -27,7 +27,7 @@ Single Bomb
 <br>
 <br>
 
-<div align="center" style="font-weight: bold; font-size: 20px;">
+<div align="center" style="font-weight: bold; font-size: 18px;">
 
 Double Bomb
 
@@ -38,7 +38,7 @@ Double Bomb
 <br>
 <br>
 
-<div align="center" style="font-weight: bold; font-size: 20px;">
+<div align="center" style="font-weight: bold; font-size: 18px;">
 
 Bomb + Regular in Same Cup
 
@@ -49,7 +49,7 @@ Bomb + Regular in Same Cup
 <br>
 <br>
 
-<div align="center" style="font-weight: bold; font-size: 20px;">
+<div align="center" style="font-weight: bold; font-size: 18px;">
 
 Two Regulars in Same Cup
 
@@ -60,7 +60,7 @@ Two Regulars in Same Cup
 <br>
 <br>
 
-<div align="center" style="font-weight: bold; font-size: 20px;">
+<div align="center" style="font-weight: bold; font-size: 18px;">
 
 Bomb + Regular in Different Cups
 
@@ -71,7 +71,7 @@ Bomb + Regular in Different Cups
 <br>
 <br>
 
-<div align="center" style="font-weight: bold; font-size: 20px;">
+<div align="center" style="font-weight: bold; font-size: 18px;">
 
 Two Bombs in Different Cups
 
