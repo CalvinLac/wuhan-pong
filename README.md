@@ -14,18 +14,24 @@
 	- Balls out the entire game
   - If the losing team has failed both their redemption shots, they can finish their drink or take a shot to mimic a redemption
 
-	#### Scenarios
-	- Single Bomb 
-  ![single-bomb](./diagrams/single-bomb.drawio.png?raw=true "Single Bomb")
-	- Double Bomb 
-  ![double-bomb](./diagrams/double-bomb.drawio.png?raw=true "Double Bomb")
-	- Bomb + Regular in Same Cup
-  ![bomb-reg-same](./diagrams/bomb-reg-same.drawio.png?raw=true "Bomb Reg Same")
-  - Two Regulars in Same Cup
-  ![two-reg-bomb](./diagrams/two-reg-bomb.drawio.png?raw=true "Two Reg Bomb")
-	- Bomb + Regular in Different Cups
-  ![bomb-reg-diff](./diagrams/bomb-reg-diff.drawio.png?raw=true "Bomb Reg Diff")
-	- Two Bombs in Different Cups
-  ![two-bomb-diff](./diagrams/two-bomb-diff.drawio.png?raw=true "Two Bomb Diff")
+#### Scenarios
+
+**Single Bomb**
+![single-bomb](./diagrams/single-bomb.drawio.png?raw=true "Single Bomb")
+
+**Double Bomb**
+![double-bomb](./diagrams/double-bomb.drawio.png?raw=true "Double Bomb")
+
+**Bomb + Regular in Same Cup**
+![bomb-reg-same](./diagrams/bomb-reg-same.drawio.png?raw=true "Bomb Reg Same")
+
+**Two Regulars in Same Cup**
+![two-reg-bomb](./diagrams/two-reg-bomb.drawio.png?raw=true "Two Reg Bomb")
+
+**Bomb + Regular in Different Cups**
+![bomb-reg-diff](./diagrams/bomb-reg-diff.drawio.png?raw=true "Bomb Reg Diff")
+
+**Two Bombs in Different Cups**
+![two-bomb-diff](./diagrams/two-bomb-diff.drawio.png?raw=true "Two Bomb Diff")
 
 
